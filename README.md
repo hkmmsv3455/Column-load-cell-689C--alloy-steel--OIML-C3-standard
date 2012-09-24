@@ -1,0 +1,4 @@
+Column-load-cell-689C--alloy-steel--OIML-C3-standard
+====================================================
+
+PARAMETER UNIT TECHNICAL DATA Rated capacity (Emax) kg 10,000...50,000 Accuracy class C3Sensitivity mV/V 2.0± 0.001Zero balance mV/V1.00%Creep over 30min %0.03NO-linearity%0.03Hysteresis%0.03Temperature effect on zero %/ 0.02Temperature effect on output %/ 0.015Nominal temperature range -10 to +40 Service temperature range -30 to +65Limit load % of R.C. 150Break load % of R.C. 300Nominal excitation V 5~10Max. excitation V 15Input impedance 760 ±10 Output impedance 702 ±3 Insulation resistance M 5000 Cable length M 10,000kg...30,000 12m, 40,000...100,000 20m Cable type 4 conductors, Braid Shielded, Black PVC Jacket Color code +Exc-Red, +Sig -Grn, -Exc-Blk, -Sig- Wht Construction Alloy steel/Stainless steel http://www.hzloadcell.com/pid11486949/Column+load+cell-689C%2c+alloy+steel%2c+OIML+C3+standard.htm
